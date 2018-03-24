@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-inspector.api.streamdata.gallery
+title: Streamdata Gallery AWS Inspector
+url: aws-inspector.streamdata.gallery
 tag: AWS Inspector
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-inspector
 github_branch: master
 collections:
